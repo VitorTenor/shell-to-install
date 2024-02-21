@@ -1,0 +1,9 @@
+com.authy.Authy
+com.bitwarden.desktop
+com.getpostman.Postman
+com.google.Chrome
+com.jetbrains.IntelliJ-IDEA-Ultimate
+com.visualstudio.code
+io.dbeaver.DBeaverCommunity
+io.github.shiftey.Desktop
+org.remmina.Remmina
