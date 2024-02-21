@@ -1,8 +1,8 @@
 
 # File paths
 # shellcheck disable=SC2154
-flatpak_programs="$file_directory/files/flatpak.txt"
-apt_programs="$file_directory/files/apt.txt"
+flatpak_programs="$file_directory/resource/flatpak.txt"
+apt_programs="$file_directory/resource/apt.txt"
 
 install_apps(){
   install_apt
@@ -64,5 +64,4 @@ init_postgres_container(){
 }
 
 
-echo "This option installs a collection of general and essential packages."
 install_apps
