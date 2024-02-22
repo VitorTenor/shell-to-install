@@ -7,3 +7,4 @@ com.visualstudio.code
 io.dbeaver.DBeaverCommunity
 io.github.shiftey.Desktop
 org.remmina.Remmina
+org.flameshot.Flameshot
